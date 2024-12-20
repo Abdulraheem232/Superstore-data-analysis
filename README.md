@@ -41,9 +41,8 @@ This project features a **Superstore Data Analytics Dashboard** built using **St
 - **Plotly** is used for interactive data visualizations like pie charts, while **Matplotlib** is used for other visualizations like bar charts and line charts.
 
 ## Files:
-- **app.py**: The main Streamlit application script.
+- **main.py**: The main Streamlit application script.
 - **Sample - Superstore.xls**: The Excel file containing the Superstore data.
-- **requirements.txt**: A file listing the necessary Python packages for the project.
 
 ## Preview:
 
